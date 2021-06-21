@@ -142,16 +142,17 @@ O pipeline ficou da seguinte forma.
 ![Pipeline parte1 completo](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/7-%20Pipeline%20parte1%20completo.png)
 
 ###  6.3. <a name='Passo8-Avaliandoomodelo'></a>Passo 8 -Avaliando o modelo
-Selecione Enviar e execute o pipeline como um novo experimento
-![Avaliando o modelo](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/15-%20Avaliando%20o%20modelo.jpg)
-
-###  6.4. <a name='Passo9-Resultadosparciaisobtidos'></a>Passo 9 -Resultados parciais obtidos
-Abaixo os resultados obtidos nessa etapa do processo.
-- Na seção "Transformações de Dados", selecione o módulo "Dividir Dados". Em seguida, conecte a saída Conjunto de dados transformado (à esquerda) do módulo Normalizar dados para a entrada do módulo Dividir dados.
+- Na seção "Transformações de Dados", selecione o módulo "Dividir Dados". Em se>
 - Modo de divisão: dividir linhas
 - Fração das linhas no primeiro conjunto de dados de saída: 0,5
 - Semente aleatória: 123
 - Divisão estratificada: Falso
+Selecione Enviar e execute o pipeline como um novo experimento.
+
+![Avaliando o modelo](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/15-%20Avaliando%20o%20modelo.jpg)
+
+###  6.4. <a name='Passo9-Resultadosparciaisobtidos'></a>Passo 9 -Resultados parciais obtidos
+Abaixo os resultados obtidos nessa etapa do processo. 
 
 ![Resultados parciais obtidos](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/15.1-Resultados%20parciais%20obtidos.jpg)
 
