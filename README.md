@@ -202,7 +202,6 @@ Com base nos resultados obtidos para uma nota 700.0 em Matemática, a nota previ
 Agora o modelo é capaz de prever notas da área de Ciências da Natureza com base nas notas de matemática.
 
 24-resultado
-
 ![resultado](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24-resultado.jpg)
 
 24.1- resultado continuação
