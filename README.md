@@ -194,21 +194,21 @@ Envie o pipeline como um novo experimento denominado "InferenciaAutomaticaNota" 
 ![Pipeline de inferencia_finalizado](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/23-%20Pipeline%20de%20inferencia_finalizado.jpg)
 
 ##  7. <a name='Resultado'></a>Resultado
-###  7.1. <a name='Passo14-resultadocontinuao'></a>Passo 14 - resultado continuação
+###  7.1. <a name='Passo14-resultadocontinuao'></a>Passo 14 - Resultado
 Quando o pipeline for concluído, selecione o módulo "Executar script Python" e, no painel de configurações, na guia "Saída + logs", visualize o Conjunto de dados de resultados para ver a nota de Ciências da Natureza prevista  nos dados de entrada.
 
 Com base nos resultados obtidos para uma nota 700.0 em Matemática, a nota prevista para Ciências da Natureza será: 557.8304
 
 Agora o modelo é capaz de prever notas da área de Ciências da Natureza com base nas notas de matemática.
 
-24-resultado
+###  7.2. <a name='Passo14-resultadocontinuao'></a>Resultado continuação
 ![resultado](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24-resultado.jpg)
 
-24.1- resultado continuação
+###  7.3. <a name='Passo14-resultadocontinuao'></a>Resultado continuação
 ![resultado continuação](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24.1-%20resultado%20continua%C3%A7%C3%A3o.jpg)
 
-24.2- resultado continuação
+###  7.4. <a name='Passo14-resultadocontinuao'></a>Resultado continuação
 ![resultado continuação](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24.2-%20resultado%20continua%C3%A7%C3%A3o.jpg)
 
-24-3- resultado continuação
+###  7.5. <a name='Passo14-resultadocontinuao'></a>Resultado continuação
 ![resultado continuação](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24.3-resultado%20continua%C3%A7%C3%A3o.jpg)
