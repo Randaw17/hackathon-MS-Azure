@@ -38,7 +38,7 @@
 Randaw, Eduarda e Raquel.
 
 
-<a href="">
+<a href="https://github.com/rockiir/hackathon-MS-Azure/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rockiir/hackathon-MS-Azure" />
 </a>
 
