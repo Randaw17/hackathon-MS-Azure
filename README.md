@@ -142,11 +142,12 @@ O pipeline ficou da seguinte forma.
 ![Pipeline parte1 completo](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/7-%20Pipeline%20parte1%20completo.png)
 
 ###  6.3. <a name='Passo8-Avaliandoomodelo'></a>Passo 8 -Avaliando o modelo
-- Na seção "Transformações de Dados", selecione o módulo "Dividir Dados". Em se>
+- Na seção "Transformações de Dados", selecione o módulo "Dividir Dados". Em seguida, conecte a saída Conjunto de dados transformado (à esquerda) do módulo Normalizar dados para a entrada do módulo Dividir dados.
 - Modo de divisão: dividir linhas
 - Fração das linhas no primeiro conjunto de dados de saída: 0,5
 - Semente aleatória: 123
 - Divisão estratificada: Falso
+
 Selecione Enviar e execute o pipeline como um novo experimento.
 
 ![Avaliando o modelo](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/15-%20Avaliando%20o%20modelo.jpg)
