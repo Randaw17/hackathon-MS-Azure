@@ -203,11 +203,11 @@ Agora o modelo é capaz de prever notas da área de Ciências da Natureza com ba
 
 ![resultado](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24-resultado.jpg)
 
-###  7.2. <a name='Passo14-resultadocontinuao'></a>Resultado continuação
+###  <a name='Passo14-resultadocontinuao'></a>Resultado continuação
 ![resultado continuação](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24.1-%20resultado%20continua%C3%A7%C3%A3o.jpg)
 
-###  7.3. <a name='Passo14-resultadocontinuao'></a>Resultado continuação
+###  <a name='Passo14-resultadocontinuao'></a>Resultado continuação
 ![resultado continuação](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24.2-%20resultado%20continua%C3%A7%C3%A3o.jpg)
 
-###  7.4. <a name='Passo14-resultadocontinuao'></a>Resultado continuação
+###  <a name='Passo14-resultadocontinuao'></a>Resultado continuação
 ![resultado continuação](https://github.com/rockiir/hackathon-MS-Azure/blob/main/images/24.3-resultado%20continua%C3%A7%C3%A3o.jpg)
